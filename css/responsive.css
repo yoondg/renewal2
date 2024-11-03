@@ -4,12 +4,12 @@
 
 
 /* 헤더 */
-body{width: 100%;}
+.container{width: 100%;}
 
 header{}
 
 .logo a img{
-margin-left: -20px;
+margin-left: -5%;
     scale: 0.8;
 }
 
@@ -28,8 +28,9 @@ nav{
 
 .main{
     align-items: center;
-    margin: 0;
+    margin: 0 auto;
     height: 200px;
+
 
 
 
@@ -115,7 +116,8 @@ nav{
 
 
 
-.swiper {
+.snsSwiper {
+  margin: 50px 0;
 
 }
 
@@ -161,29 +163,38 @@ display: none;
     margin-top: 100px;
     width: 80%;
     margin-left: -50px;
-    scale: 0.7;
+    scale: 0.8;
+    
 
 }
 
 .notifi{
 width: 100%;
 height: 1200px;
-
 }
-
+.notifi_inner{
+  margin-top: 50px;
+width: 100%;}
 
 .notifi_title>p{
 margin-left: -200px;
 }
 
 .notice_wrap{
-  flex-direction: column;
-  margin-left: 220px;
+
+flex-direction: column;
+width: 100%;
+gap: 1px;
+margin: auto;
 
 
 }
 
-.notice_box{margin-left: -200px;}
+.notice_box{
+margin: 0 auto;
+margin-top: 100px;
+
+}
 
 
 /* 섹션3 가입절차 */
@@ -263,14 +274,13 @@ margin-left: -200px;
 
 
 .banner{
-
-
     width: 100%;
     height: auto;
 }
 
 li.banner_img > a > img{
 height: auto;
+justify-content: center;
 
 }
 
@@ -311,8 +321,8 @@ ul.footer_right{
 width: 100%;
 text-align: center;
 align-items: center;
+justify-content: center;
 padding-top: 30px;
-padding-left: 110px;
 margin: 0;
 
 

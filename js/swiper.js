@@ -27,27 +27,5 @@ var swipe = new Swiper(".snsSwiper", {
 
 
 
-  //아코디언
-  // .menu-icon을 클릭하면 .accordion을 토글하는 기능
-document.querySelector('.menu-icon').addEventListener('click', function() {
-  // .accordion 요소 선택
-  const accordionMenu = document.querySelector('.accordion');
 
-  // active 토글 (클래스가 없으면 추가, 있으면 제거)
-  accordionMenu.classList.toggle('active');
-});
-
-// 모든 .accordion-title 요소에 클릭 이벤트 추가
-document.querySelectorAll('.accordion-title').forEach(function(title) {
-  title.addEventListener('click', function() {
-    // 먼저 모든 .accordion-content에서 active 클래스 제거
-    document.querySelectorAll('.accordion-content').forEach(function(content) {
-      content.classList.remove('active');
-    });
-
-    // 현재 클릭한 제목의 다음 요소(.accordion-content)를 찾아서 active 클래스 토글
-    const content = this.nextElementSibling;
-    content.classList.toggle('active');
-  });
-});
 
