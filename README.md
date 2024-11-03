@@ -28,7 +28,7 @@
 - 세부 내용 제공: 서브 페이지에서 제공하는 구체적인 정보나 자료들을 설명.(예를 들어, 서비스 소개, FAQ, 정책 자료)
 - 카테고리 별 페이지: 서브 페이지에서 카테고리 별로 나뉘어 있는 기능들, 예를 들어 각 부서 소개, 로그인기능, 문서 다운로드 등
 
-## �� 개발 환경
+## ⚙️ 개발 환경
 
 - 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
 - 사용 프로그램 : <img src="https://img.shields.io/badge/Vs code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 
 
-## �� 페이지 구성
+## 📝 페이지 구성
 
 ### 메인 페이지
 
@@ -95,6 +95,19 @@
 <br>
 |이 점을 모달로그인 창으로 뒤로가기가 필요 없이 X아이콘을 눌러 창을 닫을 수 있게 하고 모달 로그인 창 뒤로 열람 중이던 페이지가 그대로 유지되어 이용자의 사이트에 대한 흥미도가 떨어지는 것을 방지하고자 하였습니다.<br>
 또한 로그인 페이지 상단에 회원가입 후 이용 가능하다는 문구와 클릭 시 가입절차로 이동되는 링크를 이용하여 사이트에 대한 이해도를 높일 수 있도록 했습니다.<br>
+
+
+<br>
+
+| 서브02 : 공지사항 페이지                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------ |
+| ![Sub1-login](https://github.com/yoondg/renewal2/blob/main/modallogin.png) |
+
+
+| 서브02 : 누리캅스 소개 페이지                                                                                                       |
+| :------------------------------------------------------------------------------------------------------------------------ |
+| ![Sub1-login](https://github.com/yoondg/renewal2/blob/main/modallogin.png) |
+
 
 
 <br>
