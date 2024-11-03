@@ -101,18 +101,18 @@
 
 | 서브02 : 공지사항 페이지                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| ![Sub1-login](https://github.com/yoondg/renewal2/blob/main/modallogin.png) |
+| ![Sub2-notice](screencapture-127-0-0-1-5501-notice-html-2024-11-03-20_59_36.png) |
 
 
 | 서브02 : 누리캅스 소개 페이지                                                                                                       |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| ![Sub1-login](https://github.com/yoondg/renewal2/blob/main/modallogin.png) |
+| ![Sub2-intro](screencapture-127-0-0-1-5501-intro-html-2024-11-03-21_02_46.png) |
 
 
 
 <br>
 
-## �� 링크
+## 🔗 링크
 
 - [기획서](https://docs.google.com/presentation/d/1Zpxbyy_ZRD2kTOER-9JgWXdObFJ0L3eKos9IG874j-c/edit?usp=sharing)
 
